@@ -1,12 +1,16 @@
+> [!note]
+> This project has been migrated to Codeberg and will no longer be updated here.<br>
+> Visit the projects Codeberg repository at: https://codeberg.org/VoxelBill/Mini-Blocks-BE
+
 # Mini Blocks: Bedrock Edition
 
 Mini Blocks from VanillaTweaks ported to Bedrock Edition 1.21.40+
 
-Full credit goes to the VanillaTweaks team, I (BJTMastermind) just brought it over to Bedrock Edition.
+Full credit goes to the VanillaTweaks team, I (VoxelBill) just brought it over to Bedrock Edition.
 
 ## How To Use
 
-1. Go to the [Releases](https://github.com/BJTMastermind/Mini-Blocks-BE/releases) page and download the `.mcaddon` file for the version of the pack you want.
+1. Go to the [Releases](https://github.com/VoxelBill/Mini-Blocks-BE/releases) page and download the `.mcaddon` file for the version of the pack you want.
 
 **Windows**
 1. After the file is downloaded double click it to install it to Minecraft Bedrock.
